@@ -4,7 +4,7 @@ function handleClick(n) {
 }
 document.addEventListener("DOMContentLoaded", ()=>{
     document.getElementById('msg').innerHTML = '안녕하세요';
-    document.querySelector('#msg').innerHTML = '<h1>안녕하세여</h1>';
+    document.querySelector('#msg').innerHTML = '<h1>안녕하세여!</h1>';
 
 });
 
